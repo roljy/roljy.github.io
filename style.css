@@ -1,0 +1,21 @@
+/*
+Tentative colour pallete:
+    #031927 (Rich Black FOGRA 29)
+    #61d59a (Medium Aquamarine)
+    #f2545b (Sizzling Red)
+    #f7b32b (Honey Yellow)
+    #1282a2 (CG Blue)
+*/
+
+body
+{
+    text-align: center;
+    background: #031927;
+    color: #61d59a;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div.content
+{
+    text-align: left;
+}
